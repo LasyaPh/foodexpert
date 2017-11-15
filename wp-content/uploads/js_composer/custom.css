@@ -1,0 +1,9 @@
+.thim-newlleter-homepage {
+    background-image: none !important;
+    border: 2px solid #999;
+    border-bottom: none;
+}
+
+.site-header.header_v2 .navbar-nav li .sub-menu .sub-menu {
+    left: 200px !important;
+}
